@@ -1,1 +1,1 @@
-# demo today
+# demo today is Thursday
